@@ -39,5 +39,6 @@ Clash Detection:
 The system will automatically detect and highlight timetable clashes when adding or updating schedules.
 Contributors
 
-Karthik RAM 
+Karthik Ram
+
 KS Abhiram
