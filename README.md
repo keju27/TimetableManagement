@@ -1,8 +1,11 @@
 School Time Table Management System
+
 Overview
+
 This is a school time table management system that utilizes SQL as the database for storing time table information and its queries. The frontend is developed using Streamlit, providing a user-friendly interface for managing school schedules.
 
 Features
+
 Add, Delete, and View Time Tables:
 
 Easily add new time tables, delete existing ones, and view the complete list of time tables.
